@@ -1,0 +1,6 @@
+[package]
+name = "Solving_Nonlinear_Equations_in_Finite_Fields_F_13_Pair_Solution_Finder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
